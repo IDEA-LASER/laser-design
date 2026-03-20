@@ -1,0 +1,15 @@
+{
+  "name": "laser-design",
+  "version": "2.0.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "idea",
+  "license": "ISC",
+  "description": "基于腾讯地图API的React地图组件库，支持Marker、Icon等功能",
+  "dependencies": {
+    "@turf/turf": "^7.3.4"
+  }
+}
