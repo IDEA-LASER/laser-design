@@ -94,7 +94,7 @@ const icon = new BaseIconDrawer({
 
 ## 开源协议声明
 
-Laser Design 组件库使用Apache 2.0开源协议。详见：https://opensource.org/license/apache-2.0 
+LASER Design 组件库使用Apache 2.0开源协议。详见：https://opensource.org/license/apache-2.0 
  * 补充说明：
     1. 本文件中涉及的腾讯地图相关功能，基于腾讯位置服务API开发，使用需遵守《腾讯位置服务开放API服务协议》及相关隐私服务协议，需申请并使用合法的腾讯地图API Key。
     2. 本组件库开发使用过程涉及React相关功能，需遵循相应的开源协议等，详见：<br>
